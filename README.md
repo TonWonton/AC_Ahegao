@@ -1,7 +1,7 @@
 # AC_Ahegao
 
 ## Description
-Ahegao (アヘ顔) plugin / MOD for Aicomi / アイコミ . Allows you to set 3 different faces for 3 different states for both female and male characters. The different conditions for each state can also be configured.
+Ahegao (アヘ顔) plugin / MOD for `Aicomi` / `アイコミ`. Allows you to set 3 different faces for 3 different states for both female and male characters. The different conditions for each state can also be configured.
 
 ## Prerequisites
 - [BepInEx Unity Il2Cpp](https://github.com/BepInEx/BepInEx)
@@ -34,4 +34,5 @@ Ahegao (アヘ顔) plugin / MOD for Aicomi / アイコミ . Allows you to set 3 
     - Mouth type
 	- Mouth open/close amounts
   - Blush and tears level
+
 - Enable/disable/change the different conditions for each state
