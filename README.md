@@ -1,7 +1,7 @@
 # AC_Ahegao
 
 ## Description
-Ahegao (アヘ顔) plugin / MOD for `Aicomi` / `アイコミ`. Allows you to set 3 different faces for 3 different states for both female and male characters. The different conditions for each state can also be configured.
+Ahegao (アヘ顔) plugin / MOD for `Aicomi` / `アイコミ`. Set 3 different faces for 3 different states for both female and male characters. The different conditions for each state can also be configured.
 
 ## Prerequisites
 - [BepInEx Unity Il2Cpp](https://github.com/BepInEx/BepInEx)
@@ -20,7 +20,7 @@ Ahegao (アヘ顔) plugin / MOD for `Aicomi` / `アイコミ`. Allows you to set
 - Set custom faces for 3 different states
   - Orgasm
   - Faintness
-  - Faintness
+  - Faintness when speed is above the configured threshold
 - Female and male ahegao
   - Toggle any gender on/off
 - Can change:
